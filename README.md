@@ -2,9 +2,11 @@
 
 This project is a work in progress, preparing to build a machine learning classifier in Python.
 
-So far, data is loaded, described and visualized (somewhat).
+- - -
 
-Future plans include the addition of:
+**Current status**: data is loaded, described and visualized (somewhat).
+
+**Future plans** include the addition of:
 * (a) supervised learning algorithm(s),
 * model(s), and
 * predictions.
