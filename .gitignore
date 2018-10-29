@@ -1,0 +1,6 @@
+*~
+!.gitignore
+
+# IPython Notebook
+.ipynb_checkpoints
+
