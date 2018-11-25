@@ -1,15 +1,22 @@
 # machine-learning-iris-analysis
 
-This project is a work in progress, preparing to build a machine learning classifier in Python.
+A machine learning classifier for identifying/predicting the type of iris (ie. setosa, versicolor, or virginica) based on its (petal, sepal) features.
 
 - - -
 
-**Current status**: data is loaded, described and visualized (somewhat).
+## Features
 
-**Future plans** include the addition of:
-* (a) supervised learning algorithm(s),
-* model(s), and
-* predictions.
+Data is:
+* loaded
+* described
+* visualized (somewhat)
+* split into 'train' and 'test' sets
+
+Then:
+* (2) machine learning models (ie. classifiers; supervised learning algorithms) are created;
+* the models are 'fit' to the training data;
+* (class) predictions are made for new/out-of-sample/test data;
+* the accuracy of the algorithms is evaluated and compared.
 
 ## Requirements
 
