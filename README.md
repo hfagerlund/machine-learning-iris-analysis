@@ -1,12 +1,6 @@
 # machine-learning-iris-analysis
 
-- - -
-
-## No longer maintained
-
-Moved to [`machine-learning-classifier-iris`](https://github.com/hfagerlund/machine-learning-classifier-iris/).
-
-- - -
+## No longer maintained. Moved to [`machine-learning-classifier-iris`](https://github.com/hfagerlund/machine-learning-classifier-iris/).
 
 A machine learning classifier for identifying/predicting the type of iris (ie. setosa, versicolor, or virginica) based on its (petal, sepal) features.
 
